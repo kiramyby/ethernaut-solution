@@ -1,0 +1,1 @@
+cast storage --rpc-url $SEPOLIA_RPC_URL --etherscan-api-key $ETHERSCAN_API_KEY 0xd2Bed01D7579e3782fa5ac70cAe58799e91b1d39 1
